@@ -1,0 +1,6 @@
+.root {
+    -fx-font-size: 9pt;
+    -fx-font-family: "Roboto";
+    -fx-base: #fff;
+    -fx-background: #fff;
+}
